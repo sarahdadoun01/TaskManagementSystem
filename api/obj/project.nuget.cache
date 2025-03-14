@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "diwMkc3uEP0=",
+  "success": true,
+  "projectFilePath": "/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/Class-7/TaskManagementSystem/api/api.csproj",
+  "expectedPackageFiles": [
+    "/Users/sarahdadoun/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/Users/sarahdadoun/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
