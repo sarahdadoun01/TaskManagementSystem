@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "netcorext.uuid-generator",
+        "humao.rest-client",
+        "ms-vscode.live-server"
+    ]
+}
